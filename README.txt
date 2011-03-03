@@ -1,0 +1,1 @@
+FRETproc implements a data analysis toolkit for 3 filter cube FRET analysis, written from 2001-2006 when I was at Harvard.  The code could use some cleaning up, particularly of the image importing sections, but should be useful as a starting point for developing FRET analysis code of your own in Matlab.
